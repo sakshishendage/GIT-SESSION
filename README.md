@@ -22,5 +22,4 @@ A Python-based Book Store Management System to manage inventory, sales, and book
 2. Open `main.py` in Python IDLE or any Python IDE.
 3. Run the program and follow the on-screen instructions.
 
-## Author
-Sakshi Shendage
+
